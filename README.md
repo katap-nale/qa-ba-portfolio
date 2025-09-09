@@ -69,7 +69,7 @@ All artifacts were created as learning projects and are available for review.
 ---
 
 ## Contact
-**LinkedIn:** linkedin.com/in/katap-nale  
+**LinkedIn:** https://www.linkedin.com/in/katap-nale-1663b4383/  
 **GitHub:** https://github.com/katap-nale/qa-ba-portfolio  
 **Email:** your.email@example.com
 
