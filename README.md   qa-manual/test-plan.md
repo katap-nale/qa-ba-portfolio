@@ -1,4 +1,4 @@
-# Test Plan — Student Housing Portal
+# Test Plan - Student Housing Portal
 
 **Objective:**  
 Verify that the student housing web portal allows students to search, apply, and track housing applications.
