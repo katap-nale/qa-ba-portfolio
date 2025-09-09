@@ -7,8 +7,8 @@ This repo contains sample artifacts: test cases, bug reports, a Postman collecti
 - [qa-manual/test-plan](qa-manual/test-plan.md)— test plan and scope
 - [qa-manual/test-cases.md](qa-manual/test-cases.md) — sample test cases
 - [qa-manual/bug-reports.md](qa-manual/bug-reports.md) — sample defect reports
-- [ba/brd-student-housing.md](ba/brd-student-housing.md) — one-page BRD & user stories
 - [qa-manual/requirements.md](qa-manual/requirements.md) - requirements
 - [qa-manual/reports.md](qa-manual/reports.md) - system reports
+- [ba/brd-student-housing.md](ba/brd-student-housing.md) — one-page BRD & user stories
 
 If you'd like to review anything or see a walkthrough, message me on LinkedIn: https://www.linkedin.com/in/katap-nale-1663b4383/
